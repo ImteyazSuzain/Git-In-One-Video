@@ -1,1 +1,6 @@
-mylogs.log
+/mylogs.log
+*.log 
+# talking about extension
+*.cpp
+ignore/
+# / ka mtlb h k yeh ek folder hai
